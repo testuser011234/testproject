@@ -1,5 +1,15 @@
 #################################
 ####     COMMON CONFIG       ####
 #################################
-version: 0.1
-testproperties: test19
+version: 0.4
+pollingTimeMinutes: 1
+continueWatchListName: continueWatching
+favouritesListName: favourites
+watchlistListName: watchlist
+
+# *** Filter ***
+apiWhiteList: <<apiWhiteList>>
+ctsWhiteList: <<ctsWhiteList>>
+
+# *** AWS Sqs ***
+testProperties: test19
