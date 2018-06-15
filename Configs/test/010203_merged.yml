@@ -12,4 +12,4 @@ apiWhiteList: <<apiWhiteList>>
 ctsWhiteList: <<ctsWhiteList>>
 
 # *** AWS Sqs ***
-testProperties: test23
+testProperties: test30
